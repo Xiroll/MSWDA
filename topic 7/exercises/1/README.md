@@ -2,23 +2,25 @@
 
 Create the HTML structure for the following blog design using HTML5 sematic tags
 
+## Design
+
+![alt text](./blog.JPG "blog.jpg")
+
 ## What to look out for
 
 Make sure that the HTML structure follow these specifications
 
 * Use HTML5 semantic tags where possible
-* Include CSS to align the blog article section in the middle of the page [at 940px](### Blog width)
+* Include CSS to align the blog article section in the middle of the page at 940px
 * Set a consistent font for the entire page
 
 ### Blog width
 
-![alt text](./blog width.JPG "blog width.jpg")
+![alt text](./blog-width.JPG "blog-width.jpg")
 
 ## Resources
 
 Resources are all included within the `imgs` folder
-
-![alt text](./blog.JPG "blog.jpg")
 
 ## Help
 
