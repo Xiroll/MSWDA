@@ -20,7 +20,8 @@ Make sure that the HTML structure follow these specifications
 
 ## Resources
 
-Resources are all included within the `imgs` folder
+* Images are all included within the `imgs` folder
+* All content cann be found within the `Content.md` file
 
 ## Help
 
