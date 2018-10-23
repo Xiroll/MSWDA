@@ -9,3 +9,4 @@
 * Using CSS animations - [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 * Animate.css Just-add-water CSS animations - [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
 * Fun and Games with CSS - [https://rupl.github.io/fun-games-css/](https://rupl.github.io/fun-games-css/)
+* 30s of CSS - [https://30-seconds.github.io/30-seconds-of-css/](https://30-seconds.github.io/30-seconds-of-css/)
